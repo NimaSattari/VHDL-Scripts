@@ -1,0 +1,13 @@
+C:/modeltech64_2020.4/examples/4bitadderCinCout.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/4bitadderCinCout.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_BIT
+-- Loading package NUMERIC_STD
+-- Compiling entity fourbitadderCinCout
+-- Compiling architecture fourbitadderCinCout_concurnt of fourbitadderCinCout
+
+} {} {}}

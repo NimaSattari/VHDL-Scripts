@@ -1,0 +1,7 @@
+C:/modeltech64_2020.4/examples/halfaddercomp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/halfaddercomp.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Compiling entity halfaddercomp
+-- Compiling architecture structural of halfaddercomp
+
+} {} {}}

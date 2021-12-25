@@ -1,0 +1,10 @@
+Entity halfadder is
+	port( x, y : in bit;
+	      S, CO: out bit);
+	end halfadder;
+
+architecture concurrent of halfadder is
+	begin
+		S <= x xor y after 5 ns;
+		CO <= x and y after 5 ns;
+	end concurrent;

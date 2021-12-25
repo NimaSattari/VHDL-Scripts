@@ -1,0 +1,242 @@
+C:/modeltech64_2020.4/examples/MooreReset.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/MooreReset.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MooreReset
+-- Compiling architecture behavior of MooreReset
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_D_ResetActiveHigh.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_D_ResetActiveHigh.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_D_ResetActiveHigh
+-- Compiling architecture behavioral of FF_D_ResetActiveHigh
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitAdder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitAdder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_BIT
+-- Loading package NUMERIC_STD
+-- Compiling entity NBitAdder
+-- Compiling architecture behavioral of NBitAdder
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK_ActiveLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK_ActiveLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK_ActiveLow
+-- Compiling architecture Behavioral of FF_JK_ActiveLow
+
+} {} {}} C:/modeltech64_2020.4/examples/FullAdderBase.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FullAdderBase.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FullAdderBase
+-- Compiling architecture Behavior of FullAdderBase
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitCounterLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitCounterLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity NBitCounterLow
+-- Compiling architecture Behavior of NBitCounterLow
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_D_ResetActiveLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_D_ResetActiveLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_D_ResetActiveLow
+-- Compiling architecture behavioral of FF_D_ResetActiveLow
+
+} {} {}} C:/modeltech64_2020.4/examples/MM.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/MM.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity moore_tavaly
+-- Compiling architecture behavior of moore_tavaly
+
+} {} {}} C:/modeltech64_2020.4/examples/MOORE.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/MOORE.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Compiling entity MOORE
+-- Compiling architecture behavior of MOORE
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK_ActiveZero.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK_ActiveZero.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK_ActiveZero
+-- Compiling architecture Behavioral of FF_JK_ActiveZero
+
+} {} {}} C:/modeltech64_2020.4/examples/FullAdderTest.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FullAdderTest.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullAdderTest
+-- Compiling architecture Behavior of FullAdderTest
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitDecoder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitDecoder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity NBitDecoder
+-- Compiling architecture Behave of NBitDecoder
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitRegLowLoadHighClear.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitRegLowLoadHighClear.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity NBitRegLowLoadHighClear
+-- Compiling architecture Behavior of NBitRegLowLoadHighClear
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitAlu4Operation.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitAlu4Operation.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity NBitAlu4Operation
+-- Compiling architecture Behavior of NBitAlu4Operation
+
+} {} {}} C:/modeltech64_2020.4/examples/Latch_D_ActiveLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/Latch_D_ActiveLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Latch_D_ActiveLow
+-- Compiling architecture Behavioral of Latch_D_ActiveLow
+
+} {} {}} C:/modeltech64_2020.4/examples/4BitShiftRegShiftLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/4BitShiftRegShiftLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FourBitShiftRegShiftLow
+-- Compiling architecture Behavior of FourBitShiftRegShiftLow
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK_T_Struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK_T_Struct.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK_T_Struct
+-- Compiling architecture Structoral of FF_JK_T_Struct
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK_D_Struct.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK_D_Struct.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK_D_Struct
+-- Compiling architecture Structoral of FF_JK_D_Struct
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitAlu8Operation.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitAlu8Operation.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity NBitAlu8Operation
+-- Compiling architecture Behavior of NBitAlu8Operation
+
+} {} {}} C:/modeltech64_2020.4/examples/NBitAddSub.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/NBitAddSub.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_BIT
+-- Loading package NUMERIC_STD
+-- Compiling entity NBitAddSub
+-- Compiling architecture behavioral of NBitAddSub
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK
+-- Compiling architecture Behavioral of FF_JK
+
+} {} {}} C:/modeltech64_2020.4/examples/FF_JK_ResetActiveLow.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/FF_JK_ResetActiveLow.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity FF_JK_ResetActiveLow
+-- Compiling architecture Behavioral of FF_JK_ResetActiveLow
+
+} {} {}} C:/modeltech64_2020.4/examples/Mealy.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/Mealy.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Compiling entity Mealy
+-- Compiling architecture behavior of Mealy
+
+} {} {}} C:/modeltech64_2020.4/examples/SequenceDetector24.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/SequenceDetector24.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity SequenceDetector24
+-- Compiling architecture stat of SequenceDetector24
+
+} {} {}} C:/modeltech64_2020.4/examples/ShiftRegister_FF_D.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/modeltech64_2020.4/examples/ShiftRegister_FF_D.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ShiftRegister_FF_D
+-- Compiling architecture Behavioral of ShiftRegister_FF_D
+
+} {} {}}

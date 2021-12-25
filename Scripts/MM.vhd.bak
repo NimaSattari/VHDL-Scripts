@@ -1,0 +1,98 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+entity MM is
+  	port (reset,clock,input : in std_logic;
+    		output : out std_logic);
+end MM;
+
+architecture behavior of MM is
+  	type state_type is (s0,s1,s2,s3,s4,s5,s6,s7,s8);
+  	signal state , next_state : state_type;
+begin
+
+state_register : process( clock , reset)
+begin
+  	if reset = '0' then
+    		state <= s0;
+    		output <= '0';
+  	elsif clock'event and clock = '1' then 
+   	 state <= next_state;
+  	end if;
+
+end process state_register;
+
+state_logic : process( state, input )
+begin
+  	case state is
+  	when s0 =>
+    		output <= '0';
+    		if (input = '0') then 
+     			next_state <= s1;
+   		else if (input = '1') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s1 =>
+    		output <= '0';
+    		if (input = '0') then 
+      			next_state <= s1;
+    		else if (input = '1') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s2 =>
+    		output <= '0';
+    		if (input = '1') then 
+      			next_state <= s1;
+    		else if (input = '0') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s3 =>
+    		output <= '0';
+    		if (input = '0') then 
+      			next_state <= s1;
+    		else if (input = '1') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s4 =>
+    		output <= '0';
+    		if (input = '1') then 
+      			next_state <= s1;
+    		else if (input = '0') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s5 =>
+    		output <= '0';
+    		if (input = '0') then 
+      			next_state <= s1;
+    		else if (input = '1') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s6 =>
+    		output <= '0';
+    		if (input = '1') then 
+      			next_state <= s1;
+    		else if (input = '0') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  	when s7 =>
+    		output <= '0';
+    		if (input = '0') then 
+      			next_state <= s1;
+    		else if (input = '1') then
+      			next_state <= s0;
+    		end if;
+    	end if;
+  		when s8 =>
+    	output <= '1';
+    	next_state <= s0;
+  	end case;
+end process state_logic;
+end behavior;
